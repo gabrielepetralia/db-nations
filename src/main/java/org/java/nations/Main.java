@@ -124,7 +124,8 @@ public class Main {
 						}
 					}
 					
-					System.out.println("\nYear: " + year);
+					System.out.println("\n\nMost recent stats");
+					System.out.println("Year: " + year);
 					System.out.println("Population: " + population);
 					System.out.println("GDP: " + gdp);
 					
